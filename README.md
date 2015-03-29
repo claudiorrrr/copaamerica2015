@@ -23,6 +23,6 @@ Bueno, depende de tu cliente de calendario. En simple, puedes descargar el calen
 
 ## Licencia
 
-Creative Commons CC0 - Public Domain
+[Creative Commons CC0 - 1.0 Universal](https://github.com/claudioruiz/copaamerica2015/blob/master/LICENSE)
 
 Última actualización: 29.03.2015
