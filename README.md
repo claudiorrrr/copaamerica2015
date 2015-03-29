@@ -16,6 +16,10 @@ Bueno, depende de tu cliente de calendario. En simple, puedes descargar el calen
 * Formato iCal (sirve para OSX, importable en Google calendar, etc.): [Descargar](https://github.com/claudioruiz/copaamerica2015/raw/master/calendario.ics)
 * Formato CSV (crudo, básicamente): [Descargar](https://github.com/claudioruiz/copaamerica2015/raw/master/calendario.csv)
 
+## ¿Hay algún error?
+
+Entonces, ayúdame a mejorar los archivos.
+
 ## Sugerencias, aportes
 
 * reclamos@fifa.com
